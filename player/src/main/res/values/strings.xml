@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">player</string>
+    <string name="player_not_prepared">播放器还未准备完成！</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="stop">停止</string>
+    <string name="full_screen">全屏</string>
+    <string name="playing_error">当前视频播放出现异常，请重新播放！</string>
+    <string name="start_when_no_prepared">请等待视频准备完成后再播放！</string>
+</resources>
+
